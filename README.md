@@ -9,7 +9,9 @@
 #### Utiliser la commande "ps2exe" pour créer le fichier exe à partir du script :
 
 ```ps2exe -inputFile "ConvertToUtf8.ps1" -outputFile "ConvertToUtf8.exe"```
+
 ou 
+
 ```Invoke-ps2exe -inputFile "ConvertToUtf8.ps1" -outputFile "ConvertToUtf8.exe```
 
 #### Voici les informations qui vont s'écrire sur votre moniteur : 
